@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2978978f86b590544aeece57bc25dcf7
+guid: 65217cfa6b350124a992708e2ddd5b95
 TextureImporter:
   fileIDToRecycleName:
     21300000: 0hit
@@ -50,19 +50,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 181
+        y: 120
         width: 128
-        height: 87
+        height: 60
       alignment: 0
       pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 1, z: 0, w: 0}
     - name: 1hit
       rect:
         serializedVersion: 2
         x: 0
-        y: 89
+        y: 60
         width: 128
-        height: 87
+        height: 60
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -72,7 +72,7 @@ TextureImporter:
         x: 0
         y: 0
         width: 128
-        height: 87
+        height: 60
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}

@@ -17,4 +17,5 @@ public class MusicPlayer : MonoBehaviour {
 			Debug.Log ("Music Player initializing");
 		}
 	}
+	
 }
